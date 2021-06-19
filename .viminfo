@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1624096653,,"wq!"
+|2,0,1624109596,,"wq!"
 :q!
 |2,0,1624096492,,"q!"
 
@@ -32,36 +32,54 @@ $
 # Registers:
 
 # File marks:
-'0  2  4  ~/test1/sample1
-|4,48,2,4,1624096653,"~/test1/sample1"
-'1  1  0  ~/test1/sample
-|4,49,1,0,1624096492,"~/test1/sample"
-'2  8  0  ~/test1/code1
-|4,50,8,0,1624096173,"~/test1/code1"
-'3  1  0  ~/test1/sample1
-|4,51,1,0,1624096135,"~/test1/sample1"
-'4  1  0  ~/test1/sample1
-|4,52,1,0,1624096135,"~/test1/sample1"
+'0  4  4  ~/test1/sample1
+|4,48,4,4,1624109596,"~/test1/sample1"
+'1  2  4  ~/test1/sample1
+|4,49,2,4,1624096653,"~/test1/sample1"
+'2  2  4  ~/test1/sample1
+|4,50,2,4,1624096653,"~/test1/sample1"
+'3  1  0  ~/test1/sample
+|4,51,1,0,1624096492,"~/test1/sample"
+'4  8  0  ~/test1/code1
+|4,52,8,0,1624096173,"~/test1/code1"
 '5  1  0  ~/test1/sample1
-|4,53,1,0,1624096110,"~/test1/sample1"
+|4,53,1,0,1624096135,"~/test1/sample1"
 '6  1  0  ~/test1/sample1
-|4,54,1,0,1624096110,"~/test1/sample1"
-'7  3  0  ~/test/sample
-|4,55,3,0,1624094229,"~/test/sample"
-'8  1  15  ~/test/sample
-|4,56,1,15,1624093578,"~/test/sample"
-'9  1  15  ~/test/sample
-|4,57,1,15,1624093578,"~/test/sample"
+|4,54,1,0,1624096135,"~/test1/sample1"
+'7  1  0  ~/test1/sample1
+|4,55,1,0,1624096135,"~/test1/sample1"
+'8  1  0  ~/test1/sample1
+|4,56,1,0,1624096135,"~/test1/sample1"
+'9  1  0  ~/test1/sample1
+|4,57,1,0,1624096110,"~/test1/sample1"
 
 # Jumplist (newest first):
+-'  4  4  ~/test1/sample1
+|4,39,4,4,1624109596,"~/test1/sample1"
+-'  2  4  ~/test1/sample1
+|4,39,2,4,1624109580,"~/test1/sample1"
 -'  2  4  ~/test1/sample1
 |4,39,2,4,1624096653,"~/test1/sample1"
+-'  1  0  ~/test1/sample1
+|4,39,1,0,1624096619,"~/test1/sample1"
 -'  1  0  ~/test1/sample1
 |4,39,1,0,1624096619,"~/test1/sample1"
 -'  1  0  ~/test1/sample
 |4,39,1,0,1624096492,"~/test1/sample"
 -'  1  0  ~/test1/sample
 |4,39,1,0,1624096492,"~/test1/sample"
+-'  1  0  ~/test1/sample
+|4,39,1,0,1624096492,"~/test1/sample"
+-'  1  0  ~/test1/sample
+|4,39,1,0,1624096492,"~/test1/sample"
+-'  8  0  ~/test1/code1
+|4,39,8,0,1624096173,"~/test1/code1"
+-'  8  0  ~/test1/code1
+|4,39,8,0,1624096173,"~/test1/code1"
+-'  8  0  ~/test1/code1
+|4,39,8,0,1624096173,"~/test1/code1"
+-'  8  0  ~/test1/code1
+|4,39,8,0,1624096173,"~/test1/code1"
 -'  8  0  ~/test1/code1
 |4,39,8,0,1624096173,"~/test1/code1"
 -'  8  0  ~/test1/code1
@@ -150,6 +168,70 @@ $
 |4,39,3,0,1624094229,"~/test/sample"
 -'  3  0  ~/test/sample
 |4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
+-'  3  0  ~/test/sample
+|4,39,3,0,1624094229,"~/test/sample"
 -'  1  15  ~/test/sample
 |4,39,1,15,1624094200,"~/test/sample"
 -'  1  15  ~/test/sample
@@ -172,97 +254,16 @@ $
 |4,39,1,15,1624094200,"~/test/sample"
 -'  1  15  ~/test/sample
 |4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624094200,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
--'  1  15  ~/test/sample
-|4,39,1,15,1624093578,"~/test/sample"
 
 # History of marks within files (newest to oldest):
 
 > ~/test1/sample1
-	*	1624096647	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
+	*	1624109592	0
+	"	4	4
+	^	4	5
+	.	4	4
+	+	2	5
+	+	4	4
 	y	1	0
 
 > ~/test1/sample
